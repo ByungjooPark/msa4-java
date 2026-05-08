@@ -40,7 +40,5 @@ public class AbstractMain {
                 flyingSquirrel3.residence();
             }
         }
-
-
     }
 }
